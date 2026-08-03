@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project presents an end-to-end Data Analytics solution using the Google Play Store dataset. The analysis focuses on understanding app performance, user engagement, pricing strategies, ratings, installs, and category trends through Python, SQL (SQLite), and Power BI.
+This project presents an end-to-end Data Analytics solution using the Google Play Store dataset. The analysis focuses on understanding app performance, user engagement, pricing strategies, ratings, installs, and category trends through Python, SQL (SQLite3), and Power BI.
 
 The project follows a complete analytics workflow—from data cleaning and exploratory data analysis (EDA) to SQL-based business analysis and interactive dashboard development.
 
@@ -81,7 +81,7 @@ Data Cleaning (Python)
 Exploratory Data Analysis (EDA)
             │
             ▼
-SQL Analysis (SQLite)
+SQL Analysis (SQLite3)
             │
             ▼
 Power BI Dashboard
@@ -144,7 +144,8 @@ Highlights:
 - Apps by Category
 - Content Rating Distribution
 
-*(Executive Dashboard.png)*
+
+![Executive Dashboard](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/your-repository-name/main/Power%20BI/Executive%20Dashboard.png)
 
 ---
 
@@ -158,7 +159,8 @@ Highlights:
 - Top Installed Apps
 - Market Insights
 
-*(User Engagement & Market Insights Dashboard.png)*
+![User Engagement Dashboard](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/your-repository-name/main/Power%20BI/User%20Engagement%20%26%20Market%20Insights%20Dashboard.png)
+
 
 ---
 
@@ -172,7 +174,7 @@ Highlights:
 - Top Rated Categories
 - SQL Insights
 
-*(Developer & Business Insights Dashboard.png)*
+![Developer Dashboard](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/your-repository-name/main/Power%20BI/Developer%20%26%20Business%20Insights%20Dashboard.png)
 
 ---
 
