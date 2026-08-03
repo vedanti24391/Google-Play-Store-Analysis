@@ -142,7 +142,7 @@ Highlights:
 - Free vs Paid Apps
 - Interactive Slicers
 
-![Executive Dashboard](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/your-repository-name/main/Power%20BI/Executive%20Dashboard.png)
+![Executive Dashboard](Executive%20Overview.PNG)
 
 ---
 
@@ -156,8 +156,7 @@ Highlights:
 - Top 10 Installed Apps
 - Market Insights
 
-![User Engagement Dashboard](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/your-repository-name/main/Power%20BI/User%20Engagement%20%26%20Market%20Insights%20Dashboard.png)
-
+![User Engagement Dashboard](User%20Engagement%20%26%20Market%20Insights.PNG)
 ---
 
 ## 📌 Developer & Business Insights
@@ -169,9 +168,8 @@ Highlights:
 - Paid App Percentage
 - Top Rated Categories
 - SQL Insights
-
-![Developer Dashboard](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/your-repository-name/main/Power%20BI/Developer%20%26%20Business%20Insights%20Dashboard.png)
-
+  
+![Developer Dashboard](Developer%20%26%20Business%20Insights.PNG)
 
 
 ---
