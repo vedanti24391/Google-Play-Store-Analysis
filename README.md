@@ -174,7 +174,7 @@ Highlights:
 
 ---
 
-# 📌 Key Business Insights
+# 📌 Business Insights
 
 - The Family category contains the highest number of applications.
 - Communication apps receive the highest average number of reviews.
