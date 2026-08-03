@@ -54,7 +54,7 @@ Google-Play-Store-Analysis/
 │
 ├── SQL/
 │   ├── SQLite_Analysis.ipynb
-│   └── SQL_Queries.sql
+│   
 │
 ├── Power BI/
 │   ├── Google Play Store Dashboard.pbix
@@ -131,19 +131,16 @@ Implemented "30 SQL business queries" using SQLite to answer important business 
 # 📊 Power BI Dashboard
 
 The interactive dashboard consists of 3 pages:
-
 ## 📌 Executive Dashboard
 
 Highlights:
 
-- Total Apps
-- Average Rating
-- Total Installs
-- Free Apps
-- Paid Apps
+- KPI Cards (Total Apps, Average Rating, Total Installs, Paid Apps, Free Apps)
 - Apps by Category
+- Average Rating by Category
 - Content Rating Distribution
-
+- Free vs Paid Apps
+- Interactive Slicers
 
 ![Executive Dashboard](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/your-repository-name/main/Power%20BI/Executive%20Dashboard.png)
 
@@ -156,11 +153,10 @@ Highlights:
 - Total Installs by Category
 - Reviews vs Rating
 - Average Reviews by Category
-- Top Installed Apps
+- Top 10 Installed Apps
 - Market Insights
 
 ![User Engagement Dashboard](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/your-repository-name/main/Power%20BI/User%20Engagement%20%26%20Market%20Insights%20Dashboard.png)
-
 
 ---
 
@@ -175,6 +171,8 @@ Highlights:
 - SQL Insights
 
 ![Developer Dashboard](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/your-repository-name/main/Power%20BI/Developer%20%26%20Business%20Insights%20Dashboard.png)
+
+
 
 ---
 
